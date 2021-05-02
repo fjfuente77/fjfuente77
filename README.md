@@ -1,20 +1,15 @@
 ### Hi there 👋
 
-<!--
-**fjfuente77/fjfuente77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Francisco Fuentes and i'm a Software Engineering. I'm from Chile an i live in Santiago.
 
-Here are some ideas to get you started:
+I like the nature and the videogames.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
 
-###
+- Im a Wizard. I work of SRE/Devops on a medical center.
+- I like to automate a complex software process with arcane languages like Python or Bash.
+- I manage many software tools like Kubernetes, AWS or Jenkins where the magic come true.
+
+### Contact
 
 - Contact me on [Linkedin](https://www.linkedin.com/in/francisco-fuentes-figueroa/)
