@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###
+
+- Contact me on [Linkedin](https://www.linkedin.com/in/francisco-fuentes-figueroa/)
