@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Hi! My name is Francisco Fuentes and i'm a Software Engineer. I'm from Chile an i live in Santiago.
+Hi! My name is Francisco Fuentes and I'm an SRE engineer. I'm from Chile and I live in Santiago.
 
 I like nature and videogames.
 
 ### Skills
 
-- I'm a Wizard. I work of SRE/Devops.
+- I work of SRE/Devops.
 - I like automate complex processes with arcane languages like Python or Bash.
 - I manage many software tools like Kubernetes, AWS or Jenkins where the magic come true.
 
